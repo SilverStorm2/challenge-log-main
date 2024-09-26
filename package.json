@@ -1,0 +1,12 @@
+{
+  "name": "challenge-log-main",
+  "version": "1.0.0",
+  "description": "Welcome to my journey of #100DaysOfCode! This is where I will document my daily progress over the next 100 days, share lessons learned, and track my growth as a developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
